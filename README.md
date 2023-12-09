@@ -2,8 +2,6 @@
 <h3 align="center">A Passionate web developer skilled in harnessing the power of React and Next.js. Dedicated to creating innovative and responsive digital experiences that push the boundaries of possibility.</h3>
 
 
-
-
 <br />
 <h2 align="center">Current Stats</h2>
 
@@ -11,9 +9,10 @@
   <img width="60%" ><img src="https://github-readme-streak-stats.herokuapp.com?user=AwesomeMohsin&theme=nightfox" alt="GitHub Streak" />
 </p>
 
-<br />
 
-<h3 align="center">Languages and Tools:</h3>
+<br />
+<h2 align="center">Languages and Tools</h2>
+
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -31,13 +30,19 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
 </p>
+
+
 <br />
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me</h2>
+
+
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-mohsin5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-mohsin5/" height="30" width="40" /></a>
 </p>
 <br />
 
+<br />
+<h2 align="center">Currently</h2>
 
 ### 🌱 I’m exploring - Next JS. 
 ### 👯 I’m looking - To collaborate on open source projects. 
