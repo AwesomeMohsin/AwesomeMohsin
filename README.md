@@ -1,6 +1,9 @@
 <img src="https://raw.githubusercontent.com/AwesomeMohsin/AwesomeMohsin/main/images/Banner.png">
 <h3 align="center">A Passionate web developer skilled in harnessing the power of React and Next.js. Dedicated to creating innovative and responsive digital experiences that push the boundaries of possibility.</h3>
 
+<br />
+<h2 align="center">My Web Journey</h2>
+<h4 align="center">Experienced web developer with a diverse portfolio of personal projects, including a diagnostic center website, a job portal, and an e-commerce platform. Proficient in front-end technologies such as React, Next.js, and Tailwind CSS, showcasing a knack for creating engaging and responsive user interfaces. On the back end, adept at utilizing Node.js and Express.js, while leveraging MongoDB for robust database solutions. Demonstrates a passion for crafting seamless and innovative web experiences through a combination of cutting-edge technologies..</h4>
 
 <br />
 <h2 align="center">Current Stats</h2>
